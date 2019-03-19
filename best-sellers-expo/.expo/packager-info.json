@@ -3,8 +3,8 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://km-qrs.anonymous.best-sellers-expo.exp.direct",
+  "packagerNgrokUrl": "https://packager.km-qrs.anonymous.best-sellers-expo.exp.direct",
+  "ngrokPid": 21506,
   "webpackServerPort": null
 }
